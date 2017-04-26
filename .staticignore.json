@@ -1,0 +1,14 @@
+{
+  "compileIgnore": [
+  ],
+  "completelyIgnore": [
+    ".idea",
+    "test/**",
+    ".gitignore",
+    ".babelrc",
+    ".eslintrc.json",
+    "package.json",
+    "README.md",
+    "webpack.config.js"
+  ]
+}
